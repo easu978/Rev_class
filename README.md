@@ -1,3 +1,3 @@
 # Demo
 
-some steps through GitHub.
+some steps through GitHub!
